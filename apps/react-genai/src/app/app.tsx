@@ -1,13 +1,13 @@
 // Uncomment this line to use CSS modules
 // import styles from './app.module.scss';
-import NxWelcome from './nx-welcome';
+import NxWelcome from './nx-welcome'
 
 export function App() {
   return (
     <div>
       <NxWelcome title="react-genai" />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
